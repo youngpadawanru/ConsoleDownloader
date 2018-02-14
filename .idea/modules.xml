@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ConsoleDownloader.iml" filepath="$PROJECT_DIR$/.idea/modules/ConsoleDownloader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ConsoleDownloader_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ConsoleDownloader_main.iml" group="ConsoleDownloader" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ConsoleDownloader_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ConsoleDownloader_test.iml" group="ConsoleDownloader" />
+    </modules>
+  </component>
+</project>
